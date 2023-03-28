@@ -1,3 +1,3 @@
 # Neural-Networks
 
-Neural network.
+Neural network learnings.
