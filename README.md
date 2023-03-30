@@ -1,3 +1,3 @@
 # Neural-Networks
 
-Neural network learnings.
+Neural network learnings are uploaded here.
